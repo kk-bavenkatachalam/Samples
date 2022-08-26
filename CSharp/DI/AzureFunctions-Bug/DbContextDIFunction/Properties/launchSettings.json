@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "timer": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7129",
+      "launchBrowser": false
+    }
+  }
+}
